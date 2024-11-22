@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Folder
+    Browseable="True"
+    Group="View"
+    Name="WWT"
+    Searchable="True"
+>
+    <ImageSet
+        BandPass="Visible"
+        BaseDegreesPerTile="180"
+        BaseTileLevel="0"
+        BottomsUp="False"
+        CenterX="0"
+        CenterY="0"
+        DataSetType="Sky"
+        ElevationModel="False"
+        FileType=".png"
+        Generic="False"
+        Name="SDSS 12 Test"
+        Projection="Toast"
+        QuadTreeMap=""
+        Rotation="0"
+        Sparse="False"
+        StockSet="False"
+        TileLevels="13"
+        Url="https://wwtcoreapp-data-app-stage.azurewebsites.net/wwtweb/sdss12toast.aspx?Q={1},{2},{3}"
+        WidthFactor="2"
+      >
+        <Credits>Copyright SDSS</Credits>
+        <CreditsUrl>http://www.sdss.org/collaboration/credits.html</CreditsUrl>
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=sloan</ThumbnailUrl>
+      </ImageSet>
+</Folder>
